@@ -17,23 +17,6 @@
 
 ---
 
-## 💖 Thank You for Checking Out Amber & Herb!
-
-> *"Fresh full-stack architecture for modern culinary delivery."* 🍔
-
-Thank you for exploring the Amber & Herb repository! Building a full-stack food ordering platform with Next.js 15, TypeScript, Drizzle ORM, and reactive cart synchronization was a rewarding journey in end-to-end web engineering. Your time and review are deeply valued.
-
-- 🌟 **Liked the full-stack architecture & menu flows?** Please drop a star on this repository!
-- 📬 **Let's Connect:** Always open to discussing modern full-stack web architectures, server actions, and type-safe database schemas. Connect with me on [GitHub](https://github.com/SriniwasAwasthi).
-
-*Wishing you delicious food, seamless deployments, and a fantastic day!* ✨
-
----
-
-<div align="center">
-  <sub>Cooked up with modern full-stack passion by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
-</div>
-
 ## 🏛️ System Architecture
 
 ```mermaid
@@ -45,3 +28,17 @@ graph LR
     Next --> Stripe["💳 Stripe Payment Gateway"]
     Next --> OrderStream["🛰️ Live Order Tracker"]
 ```
+
+---
+
+## 💖 Thank You for Visiting & Exploring 🌿 Amber & Herb — Eat Local, Eat Healthy 🥗✨!
+
+> *"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey."* 🚀
+
+* 🌟 **Enjoyed this project?** If you found this repository interesting or helpful, please consider giving it a **Star**!
+* 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations. Feel free to connect via [GitHub](https://github.com/SriniwasAwasthi) or [Email](mailto:sriawasthi164@gmail.com).
+
+---
+<div align="center">
+  <sub>Designed & Crafted with Passion by <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a> • Continuous Learner & Software Engineer</sub>
+</div>
