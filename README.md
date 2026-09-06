@@ -33,3 +33,15 @@ Thank you for exploring the Amber & Herb repository! Building a full-stack food 
 <div align="center">
   <sub>Cooked up with modern full-stack passion by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
 </div>
+
+## 🏛️ System Architecture
+
+```mermaid
+graph LR
+    Client["👤 Customer Browser"] --> Next["⚡ Next.js 15 App Router"]
+    Next --> State["🛒 Zustand Shopping Cart"]
+    Next --> Drizzle["🔌 Drizzle ORM"]
+    Drizzle --> DB[("🗄️ PostgreSQL Database")]
+    Next --> Stripe["💳 Stripe Payment Gateway"]
+    Next --> OrderStream["🛰️ Live Order Tracker"]
+```
