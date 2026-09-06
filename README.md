@@ -115,7 +115,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 * 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations.
   * 💻 **GitHub:** [@SriniwasAwasthi](https://github.com/SriniwasAwasthi)
   * 📧 **Email:** [sriawasthi164@gmail.com](mailto:sriawasthi164@gmail.com)
-  * 🌐 **LinkedIn:** [sriniwas-awasthi210728](https://www.linkedin.com/in/sriniwas-awasthi210728/)
+  * 🌐 **LinkedIn:** [sriniwas-awasthi](https://www.linkedin.com/in/sriniwas-awasthi/)
 
 ---
 <div align="center">
