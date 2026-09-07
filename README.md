@@ -15,6 +15,27 @@
 
 ---
 
+## 📸 Culinary Showcase & Menu Previews
+
+### 🥗 Farm-to-Table Meal Selections
+
+| Citrus Chicken & Avocado Bowl | Garlic Butter Prawns |
+| :---: | :---: |
+| ![Citrus Chicken](https://images.pexels.com/photos/17597414/pexels-photo-17597414.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=450&w=700) | ![Garlic Butter Prawns](https://images.pexels.com/photos/17597407/pexels-photo-17597407.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=450&w=700) |
+| *38g Protein • 420 kcal • High Protein GF* | *32g Protein • 380 kcal • Pescatarian GF* |
+
+| Quinoa Power Bowl | Market Greens Harvest Bowl |
+| :---: | :---: |
+| ![Quinoa Power Bowl](https://images.pexels.com/photos/25315523/pexels-photo-25315523.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=450&w=700) | ![Market Greens Bowl](https://images.pexels.com/photos/842545/pexels-photo-842545.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=450&w=700) |
+| *29g Protein • 480 kcal • Meal-Prep Hero* | *12g Protein • 310 kcal • Vegan GF* |
+
+| Sunday Slow-Roast Chicken | Wild Mushroom Pappardelle |
+| :---: | :---: |
+| ![Sunday Roast](https://images.pexels.com/photos/6107756/pexels-photo-6107756.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=450&w=700) | ![Wild Mushroom Pasta](https://images.pexels.com/photos/12001950/pexels-photo-12001950.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=450&w=700) |
+| *44g Protein • 440 kcal • Family Favorite* | *18g Protein • 520 kcal • Vegetarian* |
+
+---
+
 ## 🌟 Key Features & Highlights
 
 - 🥗 **Curated Organic Food Court**: Multi-vendor food catalog with live dietary filters (Vegan, Gluten-Free, Keto, High-Protein).
@@ -65,7 +86,6 @@ amber-and-herb/
 │   ├── lib/                   # Utility helpers, currency formatters
 │   └── types/                 # Shared TypeScript data models
 ├── drizzle/                   # SQL migration scripts
-├── public/                    # Product imagery & assets
 ├── package.json               # Dependencies and scripts
 └── README.md                  # Project documentation
 ```
@@ -80,8 +100,8 @@ amber-and-herb/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/SriniwasAwasthi/Amber-and-Herb.git
-cd Amber-and-Herb
+git clone https://github.com/SriniwasAwasthi/amber-and-herb.git
+cd amber-and-herb
 
 # 2. Install dependencies
 npm install
@@ -97,8 +117,6 @@ npx drizzle-kit push
 npm run dev
 ```
 
-Open your browser to the local development server address to explore the live application.
-
 ---
 
 ## 📜 License
@@ -109,7 +127,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## 💖 Thank You for Visiting & Exploring Amber & Herb!
 
-> *"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey."* 🚀
+> *\"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey.\"* 🚀
 
 * 🌟 **Enjoyed this project?** If you found this repository interesting or helpful, please consider giving it a **Star**!
 * 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations.
